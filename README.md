@@ -36,19 +36,12 @@ Welcome to the repository containing solutions for the GeeksforGeeks (GFG) Probl
 + The code solutions can provide insights into different approaches and techniques used for these problems.
 + It could be a valuable resource for anyone preparing for CTF competitions.
 
-4. **Community Collaboration**: Feel free to contribute your own solutions or suggest improvements to existing ones. Collaboration fosters learning and helps in building a stronger programming community.
-
 ## How To Use This Repository?
 
-1. **Navigation**: Explore the directory to find solutions for each daily problem. The problems are organized chronologically, making it easy to locate specific ones.
+1. **Learn from Solutions**: These code snippets can be a great way to understand how to solve similar problems you encounter on Root Me. Analyze the code, but remember it's important to understand the logic behind it, not just copy-paste.
+2. **Gain Insights into Challenges**: Looking through the solutions can give you hints on the types of challenges you might face on Root Me and the approaches that might be successful.
+3. **Contribute (Optional)**: If you're comfortable, you might be able to contribute your own solutions to the repository, helping others who face similar challenges. (Note: Make sure you understand the repository's contribution guidelines before adding anything.)
 
-2. **Understanding Solutions**: Take your time to understand the logic behind each solution. If you encounter any difficulties, don't hesitate to ask for clarification or seek additional resources.
-
-3. **Experimentation**: After understanding a solution, try modifying it or implementing it in a different programming language. Experimentation reinforces your understanding and improves your coding versatility.
-
-4. **Engage with the Community**: Share your insights, ask questions, or discuss alternative solutions with fellow programmers. Collaboration accelerates learning and fosters a supportive environment.
-
-5. **Feel free to use, modify, or learn from these solutions**: If you find any issues or improvements, please follow the [Contribution Guidelines](#contribution-guidelines) to contribute.
 
 ## Languages Used
 
