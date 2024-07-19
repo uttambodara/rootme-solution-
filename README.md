@@ -64,6 +64,3 @@ To begin your journey through the rootme Problem of the Day solutions for 2024, 
 
 **[Visit Rootme Problem of the Day](https://www.root-me.org/)**
 
-# rootme-solution
-+ Code written while solving challenges and CTFs on root-me. www.root-me.org 
-+ Root Me is a platform for everyone to test and improve knowledge in computer security, hacking and CTFs.
