@@ -12,16 +12,8 @@
 ### Guys Please vote I need Suggestion about the Leetcode POTD [Discussion Click Please Vote](https://github.com/uttambodara/rootme-solution-)🙏
 
 
-<!--Latest!-->
-![GeeksforGeeks-POTD](https://socialify.git.ci/Hunterdii/GeeksforGeeks-POTD/image?description=1&descriptionEditable=Welcome%20to%20the%20repository%20containing%20solutions%20for%20the%20GeeksforGeeks%0A%20(GFG)%20Problem%20of%20the%20Day%20for%20the%20year%202024&font=Rokkitt&name=1&owner=1&pattern=Solid&stargazers=1&theme=Dark)
-<!--<p align="center">
-<img src="https://socialify.git.ci/Hunterdii/GeeksforGeeks-POTD/image?description=1&descriptionEditable=Welcome%20to%20the%20repository%20containing%20solutions%20for%20the%20GeeksforGeeks%0A%20(GFG)%20Problem%20of%20the%20Day%20for%20the%20year%202024&font=Rokkitt&name=1&owner=1&pattern=Solid&stargazers=1&theme=Dark" alt="Image" width="750" />
-</p>!-->
 
-#### If you've got an ingenious solution or any questions, discussions, or insights regarding today's "Problem of the Day" solution, feel free to join our vibrant [discussion hub](https://github.com/Hunterdii/GeeksforGeeks-POTD/discussions). We eagerly await your input and strive to cultivate an environment where learning flourishes through collaboration. Let's dive in together!
-
-
-Welcome to the repository containing solutions for the GeeksforGeeks (GFG) Problem of the Day for the year 2024.
+Welcome to the repository containing solutions for the rootme solution (rms) Problem of the Day for the year 2024.
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -47,7 +39,7 @@ Welcome to the repository containing solutions for the GeeksforGeeks (GFG) Probl
 
 - C++
 - Python
-- Java
+- c
 
 
 ## Directory Structure
@@ -68,9 +60,10 @@ Please ensure your code follows the existing coding style and includes appropria
 
 ## Start Exploring!
 
-To begin your journey through the GeeksforGeeks Problem of the Day solutions for 2024, simply browse through the directory and select a problem that interests you. Happy coding!
+To begin your journey through the rootme Problem of the Day solutions for 2024, simply browse through the directory and select a problem that interests you. Happy coding!
 
-**[Visit GeeksforGeeks Problem of the Day](https://practice.geeksforgeeks.org/problem-of-the-day)**
+**[Visit Rootme Problem of the Day](https://www.root-me.org/)**
+
 # rootme-solution
 + Code written while solving challenges and CTFs on root-me. www.root-me.org 
 + Root Me is a platform for everyone to test and improve knowledge in computer security, hacking and CTFs.
