@@ -16,3 +16,6 @@ There is also an explanation of the content at https://www.canalacademies.com/em
 If we interpret the message at the very end of the problem, it says, "Use the last "hidden phrase", to validate this test." It asks us to find the hidden phrase in the last paragraph, so we can see that the **correct answer is Cette Nuit**.
 #Answer
 + It's Nuit
+![download (1)](https://github.com/user-attachments/assets/4adc742e-d821-459a-99e2-d3a2e973bd66)
+![download (2)](https://github.com/user-attachments/assets/a78c4c9a-eab1-43df-b88e-981e0c248b1e)
+![download](https://github.com/user-attachments/assets/0ad57c9c-fa63-4731-8167-60f1d7026488)
