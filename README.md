@@ -1,4 +1,3 @@
-
 # rootme Problem of the Day Solutions 2024    [Solutions](https://github.com/uttambodara/rootme-solution-)     
 <div align=center>
   <h3><b>📍Repository Visitor Count</b></h3>
