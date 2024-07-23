@@ -78,5 +78,5 @@ Issue
 💡https://web.archive.org/web/20180305181029/https://w2.eff.org/Privacy/printers/docucolor/ They say you can decode yellow dots, but I don't know if it's just me, but they don't decode them👿
 
 After verifying the answer, I looked at the solution and it said I could get it by writing a code, but I don't understand the code☹️
-flag
++ flag
 🍒 11:05 27/07/2014 06922930
