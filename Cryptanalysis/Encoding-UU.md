@@ -3,6 +3,8 @@ The website ( https://www.root-me.org/en/Challenges/Criptoanalisis/Encoding-UU )
 
 
 
+![2016-06-16_18-01-43](https://github.com/user-attachments/assets/483fcb69-12df-4aaa-84b8-9a58d31f8612)
+![2016-06-16_18-08-17](https://github.com/user-attachments/assets/469f459b-7a28-4ce0-b785-86a305bae53b)
 
 
 
